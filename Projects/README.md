@@ -1,3 +1,3 @@
 # Projects
 
-- [Sort 3 numbers](https://github.com/JoshAlvarado/Java/blob/master/Projects/Sort.java) Asks the user the subtotal and the gratuity percent they'd like to give and gives the user the total amount.
+- [Sort](https://github.com/JoshAlvarado/Java/blob/master/Projects/Sort.java) Asks the user for 3 numbers and then sorts those number from smallest to largest.
